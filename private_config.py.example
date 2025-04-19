@@ -1,0 +1,6 @@
+# private_config.py.example
+
+# Rename this file to private_config.py and fill in your credentials
+
+TRACKER_API_KEY = "your_tracker_gg_api_key_here"
+DISCORD_WEBHOOK_URL = "your_discord_webhook_url_here"
